@@ -14,7 +14,17 @@
 * Multi-hit bricks 
 ## Game Instructions
 * Use the arrow keys to move, space bar to launch , BREAK AS MANY BRICKS AS POSSIBLE !
-### Level 1 Demo :
+## The Game Demo:
+### Level 1  :
+#### The Game Starts with one brick only , and 2 lives for the user and as the user get into higher levels it increases the difficulty by adding more bricks
+![Alt Text](https://media.giphy.com/media/yx00rHbndpThaRuQz1/giphy.gif)
+
+### Level 2 : 
+#### So Now the user can find the power ups in the bricks and there are multi-hit bricks 
+![Alt Text](https://media.giphy.com/media/n5HPgfICKOQpsgObRi/giphy.gif)
+
+
+
 
 
 
